@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+
+ }
+ .contenedor{ 
+ background-color: lightpink;
+ width: 200vw;   
+ height: 200vh;
+ text-align: center;
+ }
+
+ p { 
+    font-size: xx-large;
+    padding: 15%;
+ }
+
+button { 
+    font-size: xx-large;
+    padding: o.75em;
+}
+
+#yesBtn { 
+    transform: translate(-100%,0);
+}
+
+#noBtn {
+    position: absolute;
+ }
+
+
+ .tenor-gif-embed{
+    width: 200px;
+    height: 200px;
+    }
+    .dibujo{
+        width: 300px;
+        height: 300px;
+        }
